@@ -13,3 +13,7 @@ li {
   font-weight: lighter;
   color:green;
 }
+
+.adults, .kids {
+  display: none;
+}
