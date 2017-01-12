@@ -1,0 +1,15 @@
+img {
+  width: 300px;
+}
+
+li {
+  font-size: 30px;
+}
+.adults{
+  font-weight: bold;
+  color:red;
+}
+.kids{
+  font-weight: lighter;
+  color:green;
+}
